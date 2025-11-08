@@ -5,7 +5,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5173',
   'https://traincapecrm.traincapetech.in',
   'http://traincapecrm.traincapetech.in',
-  'https://crm-backend-o36v.onrender.com',
+  'https://crm-trial-backend.onrender.com',
   // Add any additional origins here
 ];
 
